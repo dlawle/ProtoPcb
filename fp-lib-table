@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "benjiaomodular")(type "KiCad")(uri "/Users/dlawle/synth/kicadlib/KiCadLibraries-main/benjiaomodular.pretty")(options "")(descr ""))
+  (lib (name "eurorack")(type "KiCad")(uri "/Users/dlawle/synth/kicadlib/eurorack_kicad-master/eurorack.pretty")(options "")(descr ""))
+)
